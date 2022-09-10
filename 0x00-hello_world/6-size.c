@@ -1,4 +1,3 @@
-14 lines (14 sloc)  395 Bytes
 #include <stdio.h>
 /**
  * main - main block
